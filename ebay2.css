@@ -43,11 +43,5 @@ body {
 }
 .section-info {
     padding-left:0.5%;
-    width:65%;
-}
-.section-image {
-    width: 30%;
-    float:right;
-    position:relative;
-    top:-300px;
+    width:100%;
 }
